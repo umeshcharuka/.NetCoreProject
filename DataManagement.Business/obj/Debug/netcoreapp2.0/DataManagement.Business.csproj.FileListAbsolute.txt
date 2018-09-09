@@ -1,0 +1,9 @@
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\bin\Debug\netcoreapp2.0\DataManagement.Business.deps.json
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\bin\Debug\netcoreapp2.0\DataManagement.Business.dll
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\bin\Debug\netcoreapp2.0\DataManagement.Business.pdb
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.AssemblyInfoInputs.cache
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.AssemblyInfo.cs
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.dll
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.pdb
+C:\Users\uc\source\repos\DataManagement\DataManagement.Business\obj\Debug\netcoreapp2.0\DataManagement.Business.csprojResolveAssemblyReference.cache

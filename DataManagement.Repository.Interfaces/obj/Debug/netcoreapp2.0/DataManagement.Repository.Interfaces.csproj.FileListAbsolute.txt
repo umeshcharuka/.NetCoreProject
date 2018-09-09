@@ -1,0 +1,11 @@
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.deps.json
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.dll
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.pdb
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp2.0\Data.Management.Entities.dll
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp2.0\Data.Management.Entities.pdb
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.AssemblyInfo.cs
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.dll
+C:\Users\uc\source\repos\DataManagement\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.pdb

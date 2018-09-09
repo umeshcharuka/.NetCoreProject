@@ -1,0 +1,13 @@
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\Data.Management.Repository.deps.json
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\Data.Management.Repository.dll
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\Data.Management.Repository.pdb
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\Data.Management.Entities.dll
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.dll
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\Data.Management.Entities.pdb
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\bin\Debug\netcoreapp2.0\DataManagement.Repository.Interfaces.pdb
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.csprojResolveAssemblyReference.cache
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.csproj.CoreCompileInputs.cache
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.AssemblyInfoInputs.cache
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.AssemblyInfo.cs
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.dll
+C:\Users\uc\source\repos\DataManagement\Data.Management.Repository\obj\Debug\netcoreapp2.0\Data.Management.Repository.pdb
